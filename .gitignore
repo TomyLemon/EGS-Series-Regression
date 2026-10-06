@@ -1,0 +1,13 @@
+.DS_Store
+*.rds
+output/Figure_*
+output/Table*
+output/table*
+output/fig*
+output/*.pdf
+output/*.log
+output/*.aux
+output/*.fls
+output/*.fdb_latexmk
+output/*.synctex.gz
+!output/market_returns_2016_2026.csv
